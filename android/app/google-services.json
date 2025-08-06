@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "905611628396",
+    "firebase_url": "https://tibibti-d52f7-default-rtdb.firebaseio.com",
+    "project_id": "tibibti-d52f7",
+    "storage_bucket": "tibibti-d52f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905611628396:android:b542e21d80bfedb510ad49",
+        "android_client_info": {
+          "package_name": "com.ibrahim.tibibti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905611628396-qik9j580lgevsg0te2o7hh6qn1kri24d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnSBeZaJfAf6hpKSWCqttXD4aN2VL2Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905611628396-qik9j580lgevsg0te2o7hh6qn1kri24d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905611628396-1crt9n90qjurs2io8ne620kg117h7u66.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibrahim.tibibti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905611628396:android:a9c5f4a78b227c1110ad49",
+        "android_client_info": {
+          "package_name": "com.ibrahim.tibibti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905611628396-qik9j580lgevsg0te2o7hh6qn1kri24d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnSBeZaJfAf6hpKSWCqttXD4aN2VL2Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905611628396-qik9j580lgevsg0te2o7hh6qn1kri24d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905611628396-1crt9n90qjurs2io8ne620kg117h7u66.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibrahim.tibibti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

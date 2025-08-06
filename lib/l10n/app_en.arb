@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Dark mode",
+  "home": "Home",
+  "logout": "Logout"
+}

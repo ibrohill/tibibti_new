@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>905611628396-1crt9n90qjurs2io8ne620kg117h7u66.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.905611628396-1crt9n90qjurs2io8ne620kg117h7u66</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk1Ckwf1T7n0CHOzA1PYv_hUbWmo7fGXg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>905611628396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ibrahim.tibibti</string>
+	<key>PROJECT_ID</key>
+	<string>tibibti-d52f7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tibibti-d52f7.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:905611628396:ios:a66570ee7483843810ad49</string>
+	<key>DATABASE_URL</key>
+	<string>https://tibibti-d52f7-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
